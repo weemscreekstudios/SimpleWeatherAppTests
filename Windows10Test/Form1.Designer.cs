@@ -55,10 +55,10 @@
             this.webBrowser11.Location = new System.Drawing.Point(30, 99);
             this.webBrowser11.MinimumSize = new System.Drawing.Size(20, 20);
             this.webBrowser11.Name = "webBrowser11";
+            this.webBrowser11.ScrollBarsEnabled = false;
             this.webBrowser11.Size = new System.Drawing.Size(253, 185);
             this.webBrowser11.TabIndex = 1;
-            this.webBrowser11.Url = new System.Uri("http://api.openweathermap.org/data/2.5/weather?q=London&mode=html&appid=44db6a862" +
-        "fba0b067b1930da0d769e98", System.UriKind.Absolute);
+            this.webBrowser11.Url = new System.Uri("file:///F:/DataDocsPhotosPlus/Downloads/openweatherapi-modified.htm", System.UriKind.Absolute);
             this.webBrowser11.Navigated += new System.Windows.Forms.WebBrowserNavigatedEventHandler(this.webBrowser1_Navigated_1);
             // 
             // textBox1
@@ -91,50 +91,50 @@
             this.webBrowser12.Location = new System.Drawing.Point(321, 99);
             this.webBrowser12.MinimumSize = new System.Drawing.Size(20, 20);
             this.webBrowser12.Name = "webBrowser12";
+            this.webBrowser12.ScrollBarsEnabled = false;
             this.webBrowser12.Size = new System.Drawing.Size(253, 185);
             this.webBrowser12.TabIndex = 5;
-            this.webBrowser12.Url = new System.Uri("http://api.openweathermap.org/data/2.5/weather?q=Annapolis,MD&mode=html&appid=44d" +
-        "b6a862fba0b067b1930da0d769e98", System.UriKind.Absolute);
+            this.webBrowser12.Url = new System.Uri("file:///F:/DataDocsPhotosPlus/Downloads/openweatherapi-annapolis.htm", System.UriKind.Absolute);
             // 
             // webBrowser13
             // 
             this.webBrowser13.Location = new System.Drawing.Point(601, 99);
             this.webBrowser13.MinimumSize = new System.Drawing.Size(20, 20);
             this.webBrowser13.Name = "webBrowser13";
+            this.webBrowser13.ScrollBarsEnabled = false;
             this.webBrowser13.Size = new System.Drawing.Size(253, 185);
             this.webBrowser13.TabIndex = 6;
-            this.webBrowser13.Url = new System.Uri("http://api.openweathermap.org/data/2.5/weather?q=Cheltenham,UK&mode=html&appid=44" +
-        "db6a862fba0b067b1930da0d769e98", System.UriKind.Absolute);
+            this.webBrowser13.Url = new System.Uri("file:///F:/DataDocsPhotosPlus/Downloads/openweatherapi-annapolis.htm", System.UriKind.Absolute);
             // 
             // webBrowser21
             // 
             this.webBrowser21.Location = new System.Drawing.Point(30, 323);
             this.webBrowser21.MinimumSize = new System.Drawing.Size(20, 20);
             this.webBrowser21.Name = "webBrowser21";
+            this.webBrowser21.ScrollBarsEnabled = false;
             this.webBrowser21.Size = new System.Drawing.Size(253, 185);
             this.webBrowser21.TabIndex = 7;
-            this.webBrowser21.Url = new System.Uri("http://api.openweathermap.org/data/2.5/weather?q=Rochester,NY&mode=html&appid=44d" +
-        "b6a862fba0b067b1930da0d769e98", System.UriKind.Absolute);
+            this.webBrowser21.Url = new System.Uri("file:///F:/DataDocsPhotosPlus/Downloads/openweatherapi-annapolis.htm", System.UriKind.Absolute);
             // 
             // webBrowser22
             // 
             this.webBrowser22.Location = new System.Drawing.Point(321, 323);
             this.webBrowser22.MinimumSize = new System.Drawing.Size(20, 20);
             this.webBrowser22.Name = "webBrowser22";
+            this.webBrowser22.ScrollBarsEnabled = false;
             this.webBrowser22.Size = new System.Drawing.Size(253, 185);
             this.webBrowser22.TabIndex = 8;
-            this.webBrowser22.Url = new System.Uri("http://api.openweathermap.org/data/2.5/weather?q=Vancouver,WA&mode=html&appid=44d" +
-        "b6a862fba0b067b1930da0d769e98", System.UriKind.Absolute);
+            this.webBrowser22.Url = new System.Uri("file:///F:/DataDocsPhotosPlus/Downloads/openweatherapi-annapolis.htm", System.UriKind.Absolute);
             // 
             // webBrowser23
             // 
             this.webBrowser23.Location = new System.Drawing.Point(601, 323);
             this.webBrowser23.MinimumSize = new System.Drawing.Size(20, 20);
             this.webBrowser23.Name = "webBrowser23";
+            this.webBrowser23.ScrollBarsEnabled = false;
             this.webBrowser23.Size = new System.Drawing.Size(253, 185);
             this.webBrowser23.TabIndex = 9;
-            this.webBrowser23.Url = new System.Uri("http://api.openweathermap.org/data/2.5/weather?q=London&mode=html&appid=44db6a862" +
-        "fba0b067b1930da0d769e98", System.UriKind.Absolute);
+            this.webBrowser23.Url = new System.Uri("file:///F:/DataDocsPhotosPlus/Downloads/openweatherapi-annapolis.htm", System.UriKind.Absolute);
             // 
             // Form1
             // 
